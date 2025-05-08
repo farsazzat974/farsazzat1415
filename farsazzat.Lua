@@ -933,17 +933,17 @@ CheckButton.MouseButton1Click:Connect(function()
 end)
 
 LinkvertiseButton.MouseButton1Click:Connect(function()
-    setclipboard("https://ads.luarmor.net/get_key?for=Solixhub_Free_KeySystem-OWlLHDMCHADk")
+    setclipboard("https://shrinkme.ink/2fM6SV")
     createNotification("Copied", "Linkvertise link copied to clipboard!", 5, Color3.fromRGB(255, 188, 254), ScreenGui)
 end)
 
 LootlabsButton.MouseButton1Click:Connect(function()
-    setclipboard("https://ads.luarmor.net/get_key?for=Solix_Free_Keysystems-pqJCGTqnTsng")
+    setclipboard("https://shrinkme.ink/UYNEj")
     createNotification("Copied", "Lootlabs link copied to clipboard!", 5, Color3.fromRGB(255, 188, 254), ScreenGui)
 end)
 
 DiscordButton.MouseButton1Click:Connect(function()
-    setclipboard("https://discord.gg/rSZJGSr5FW")
+    setclipboard("https://discord.gg/fcpgqQR7Zf")
     createNotification("Copied", "Discord invite copied to clipboard!", 5, Color3.fromRGB(88, 101, 242), ScreenGui)
 end)
 
