@@ -396,7 +396,7 @@ end
 
 
 local ScreenGui = Instance.new("ScreenGui")
-ScreenGui.Name = "FarsazzatHubLogin"
+ScreenGui.Name = "Farsazzat HubLogin"
 ScreenGui.ResetOnSpawn = false
 ScreenGui.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
 ScreenGui.Parent = Players.LocalPlayer:WaitForChild("PlayerGui")
